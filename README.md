@@ -9,5 +9,7 @@ Example:
 
 <a href="https://ibb.co/xYgjDJG"><img src="https://i.ibb.co/C697zhv/local-error.png" alt="local-error" border="0"></a>
 
+Galimzhanov Daniyar
+
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
