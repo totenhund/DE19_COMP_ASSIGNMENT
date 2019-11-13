@@ -5,5 +5,8 @@ This is my assigment for Differential equations cource at Innopolis University.
 
 It plots the exact solution of first order differential equation and numerical methods such as Euler, Improved Euler and Runge-Kutta methods.
 
+Example:
+<a href="https://ibb.co/xYgjDJG"><img src="https://i.ibb.co/C697zhv/local-error.png" alt="local-error" border="0"></a>
+
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
