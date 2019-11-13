@@ -1,0 +1,8 @@
+prefix=/home/dcode/PycharmProjects/diffass/venv
+
+Name: Pycairo
+Description: Python 3 bindings for cairo
+Version: 1.18.2
+Requires: cairo
+Cflags: -I${prefix}/include/pycairo
+Libs:
